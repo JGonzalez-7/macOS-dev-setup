@@ -6,6 +6,8 @@ This guide walks you through the complete setup process for a macOS development 
 
 - macOS system (Apple Silicon or Intel)
 - Internet connection
+- Open the terminal 
+- Make sure you are at the /root (or at the desired PATH location)
 
 ---
 
