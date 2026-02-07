@@ -23,7 +23,7 @@ Homebrew is a package manager for macOS. If you don't have Xcode installed, this
 
 ## 2. Add Homebrew to PATH
 
-### For Apple Silicon Macs:
+### For Apple Silicon Macs (M1 and above):
 
 ```bash
 echo 'eval "$(/opt/homebrew/bin/brew shellenv)"' >> ~/.zprofile
