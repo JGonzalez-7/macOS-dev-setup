@@ -111,7 +111,7 @@ eval "$(ssh-agent -s)"
 
 ## 10. Add SSH Key to SSH Agent
 
-For macOS systems using the `--apple-use-keychain` option:
+For macOS systems use the following command:
 
 ```bash
 ssh-add ~/.ssh/id_ed25519

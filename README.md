@@ -9,7 +9,7 @@ Covers the process of installing Homebrew, Git, Xcode CLT, creating SSH keys, an
 - Install Homebrew using the official installer script.
 - Add Homebrew to your shell `PATH` (Apple Silicon uses `/opt/homebrew`, Intel uses `/usr/local`).
 - Install Git via Homebrew and configure your global username, email, and default branch.
-- Generate an SSH key pair and add it to the macOS keychain.
+- Generate an SSH key pair and add it to the macOS agent.
 - Upload the public key to GitHub and verify with `ssh -T git@github.com`.
 
 ## Requirements
